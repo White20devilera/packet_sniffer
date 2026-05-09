@@ -16,5 +16,16 @@
 
 
 
-# packet_sniffer
+# Advanced Packet Sniffer
 A real-time network traffic analysis tool that captures and inspects data packets at the link layer. It provides deep packet inspection (DPI) capabilities to monitor network activity and identify potential security threats.
+
+# Key Features:
+
+Layered inspection of HTTP, TCP, and UDP protocols.
+
+Automatic extraction of sensitive data (usernames/passwords) from unencrypted HTTP traffic.
+
+Non-persistent storage mode to minimize memory consumption during long-term monitoring.
+
+
+
